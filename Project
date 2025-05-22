@@ -1,0 +1,111 @@
+# Project Session
+studentapp / nodejs
+
+How work done in company?
+Explain the project?
+Explain your roles from the project
+
+Client = CRM (dyl- ERP, schools subs)
+ERP - Resource data
+(School - XYZ - ERP (develop, tally))
+Admission
+Attendance
+course
+fees
+trainer
+salary
+
+dyl ERP - (developers, IT company)
+Admission - admission.war
+Attendance - attendance.war
+course - course.war
+fees - fees.war
+trainer - trainer.war
+salary - salary.war
+
+6 microservices 
+frontend-6, backend-6 backed, database-6
+client name: dyl, 
+frontend-5, backend-18, database-18
+
+zoho.com (2 Year) 
+client name: zoho
+Application: ERP
+Domain: Education
+Microservices: 20
+TechStack: Angular(6)|Springboot(maven)(6)|Postgres(6)
+Team Size: 25 
+------------------
+
+Zoho (ERP) -> Cloudblitz (developers)
+
+Client meeting (Project, Sr DevOps, Sr Developer, Sales Team)
+
+Req, Gather | Analysise
+
+Planning design
+Coding 
+
+dev infra, test infra, prod infra
+branching strategy
+Dev 
+test
+uat
+prod
+Documentation (SOP - Standard of Procedure)
+1 sr devops - 7 8 devops intern
+implement jira
+SOP for branching strategy
+Create Repos
+Create branches
+Provide access to team
+Keys manage
+code Merge
+Conflicts resolve
+cleanup the repos
+design infra best practices
+terraform modules
+secure tfstate
+terraform apply
+update terraform scripts
+create new resources using terraform  
+manage repos for terraform
+create jenkins server
+install pluging
+write cicd pipeline-  backend pipeline (PULL, BUILD, TEST, DEPLOY)
+write cicd frontend pipeline- (PULL, BUILD, DEPLOY)
+install maven
+create sonarqube server
+manually trigger
+automate trigger - github webhook
+qualitygate webhook
+integrate maven and sonarqube in jenkins
+dockerimage -> push Dockerhub -> Kubectlapply
+write dockerfile
+write manifest for deployment, service, ingress, hpa, secret, configmap
+manage authentications between jenkins, github, eks, dockerhub,aws
+
+
+delviery / deployment
+
+
+description:
+techstack: 
+branch:
+
+
+manually - 1 DB, B, F
+manually - 3 DB, B, F
+Cicd - 
+Terraform - 
+manually - RDS, EKS, S3
+cicd -
+terraform - RDS, EKS, S3
+cicd terraform 
+github webhook
+
+pass / fail
+qualityGate
+
+
+Practice - Labex Start
