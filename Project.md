@@ -2,8 +2,27 @@
 ----------
 
 DevOps - Project - Support
-Development --
+Development -- 2-3 year
 Ops 
+
+DYL - Telecom - CRM 2 1.
+team 13 - 1 devops, 1 sr SE.
+
+JIRA - Backlogs, ToDo, InProgress, COdeReview, DOne - Project Manager
+ticket, issues, task
+Task Management Tool
+
+1. distribute
+2. transperent
+3. Task manage
+4. Task status
+
+11:30 PM
+SLACK Channels - API - SNS, Dashboard, JIRA
+3 12 
+
+9.30 10
+
 
 Support - Developer
 --------------------
@@ -106,10 +125,10 @@ team size: 39
 
 
 Customization:
-client: shopsy
-domain: clothing
-application: e-commerce
-DNS: shopsy.in
+client: CignoCloud
+domain: Cloud Service
+application: CRM
+DNS: crm.cignocloud.com
 team size: 19 (F 3, B 3, 2 T, 2 FD, 1 DE, 1 SE, 1 PM, 6 deveops interns)
 microservices: cloth-app, cart-app, payment-app, auth-app, user-app, favorite-app, calendar-app, workflow-app, admin-app, sales-app, marketing-app
 ------------------
@@ -140,5 +159,30 @@ TEST - sonarqube
 DEPLOY - docker build, docker push, kubectl apply
 -----------------
 
-
 What is your roles in the project?
+
+Terraform - Scripts
+Docker - Dockerfile
+Kubernetes - Manifests
+Sonarqube - QA
+Jenkins - CICD
+-----------------------
+
+Deploy - tomcat, java, express, apache2, nginx, s3
+
+Windows, Linux, EC2, Docker, Kuberenetes, CICD
+
+
+1. Deploy DATABASE
+DB_USER = linux
+DB_PASS = redhat
+DB_NAME = flightdb
+DB_HOST = localhost
+DB_PORT = 3306
+
+2. Deploy Microservice
+
+
+
+
+

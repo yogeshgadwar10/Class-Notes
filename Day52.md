@@ -62,3 +62,10 @@ variables:
 number = 1232332
 string = "abc", "shubham", "1725476"
 boolean = true, false
+
+
+export
+env
+unset
+/etc/profile
+
