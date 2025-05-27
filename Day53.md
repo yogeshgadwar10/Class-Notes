@@ -63,7 +63,6 @@ elif OS is ubuntu; then
 
 
 OS=$(cat /etc/os-release | head -1 | sed -e 's/'NAME='/''/g' | sed -e 's/'\"'/''/g')
-OS=$osname
 echo $OS
 
 if [ $OS = "Amazon Linux" ]; then
@@ -71,3 +70,13 @@ if [ $OS = "Amazon Linux" ]; then
 elif [ $OS = "Ubuntu" ]; then
     sudo apt update && apt install apache2 -y
 
+export 
+
+
+
+.env
+export DB_USER="linux"
+export DB_PASS=123
+export DB_NAME=myDB
+export DB_PORT=3306
+export DB_HOST=localhost
