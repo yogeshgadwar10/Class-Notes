@@ -78,3 +78,23 @@ Configuation Management - Shell Scripting, Ansible, Chef, Puppet
 GIT, 
 
 
+# DevOps ->
+
+What is DevOps -> Agile methodology to follow SDLC.
+
+SDLC - Software Development LifeCycle
+
+Req Gathering and Analysis
+Planning and Designing
+Coding and Development
+Testing 
+Deployment and Delivery
+Maintainace and monitor
+
+WaterFall Model
+Agile Model
+
+
+SCM - Source Code Management
+
+
