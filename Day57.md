@@ -124,4 +124,7 @@ git restore --staged file7  # to unstage the staged changes
 HW. Different DEPLOYMENT STRATEGY
 top 20 questions on git
 
-
+blue green 
+canary 
+batch update
+rolling update
