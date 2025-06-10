@@ -8,4 +8,5 @@ GITLAB CE - community edition (FREE)
 GITLAB EE - enterprise edition (PAID)
 
 
-
+Install AUto-git plugin
+ctrl+shift+p
