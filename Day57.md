@@ -128,3 +128,8 @@ blue green
 canary 
 batch update
 rolling update
+
+
+t2/t3 unlimited (CREDIT SPECIFICATION)
+
+2 4 ram
