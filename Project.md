@@ -185,5 +185,10 @@ DB_PORT = 3306
 
 
 JOB PORTALS 
+---------
+Naukri.com
+LinkedIN
+Indeed
+Glassdoor
 
 
