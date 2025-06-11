@@ -191,5 +191,8 @@ LinkedIN
 Indeed
 Glassdoor
 Hirist
+Fresherworld
+Internshala
+Hirect
 
 
