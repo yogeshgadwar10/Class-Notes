@@ -190,5 +190,6 @@ Naukri.com
 LinkedIN
 Indeed
 Glassdoor
+Hirist
 
 
