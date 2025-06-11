@@ -197,6 +197,6 @@ Hirect
 
 
 1 - Apply JOB Portals
-2
+2 - LinkedIN
 3
 
