@@ -162,4 +162,6 @@ Jenkins
 2. Different Deployment Strategies
 3. Explain your pipeline
 
-
+Docker
+---------
+1. 
