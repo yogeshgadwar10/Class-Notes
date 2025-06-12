@@ -144,3 +144,7 @@ Manually Server - Instance / AMI
 
 ---------------
 
+Linux and AWS Important Question
+DevOps
+
+Git 
