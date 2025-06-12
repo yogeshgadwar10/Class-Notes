@@ -159,4 +159,7 @@ Dev branch code push
 Jenkins
 ---------
 1. Jenkins job backup
-2. Different 
+2. Different Deployment Strategies
+3. Explain your pipeline
+
+
