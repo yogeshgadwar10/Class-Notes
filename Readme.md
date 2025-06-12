@@ -193,3 +193,7 @@ comment configuration of resource my_instance
 terraform apply
 4. Terraform refresh
 
+
+Monitoring Tool - 
+
+CloudWatch -
