@@ -166,4 +166,5 @@ Docker
 ---------
 1. Entrypoint vs CMD vs RUN
 2. What is Dockerfile?
-What why how? INSTRUCTIONS / Deplpy JAVA / 
+What why how? INSTRUCTIONS / Deplpy JAVA 
+3. How to optimize dockerimage 
