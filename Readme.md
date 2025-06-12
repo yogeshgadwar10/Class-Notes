@@ -173,4 +173,4 @@ What why how? INSTRUCTIONS / Deplpy JAVA
 - use smaller base image
 - Remove unnnecesary files
 4. ARG vs VAR
-
+5. 
