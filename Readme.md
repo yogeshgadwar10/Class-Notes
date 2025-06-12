@@ -181,6 +181,8 @@ Kubernetes
 3. Deployment and Service
 4. Different service types
 5. Architecture of Kubernetes
+6. Taint and Tolerence
+
 
 Terraform
 -------------
