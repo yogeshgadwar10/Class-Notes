@@ -173,4 +173,4 @@ What why how? INSTRUCTIONS / Deplpy JAVA
 - use smaller base image
 - Remove unnnecesary files
 
-
+aws cli , download, install, remove
