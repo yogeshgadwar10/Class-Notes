@@ -149,4 +149,5 @@ DevOps
 
 Git,
 PULL vs FETCH vs CLONE
-rebase vs re
+rebase vs reset
+
