@@ -190,3 +190,4 @@ Terraform
 2. Terraform import
 3. Terraform destroy --target aws_instance.my_instance
 comment configuration of resource my_instance
+terraform apply
