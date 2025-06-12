@@ -1,5 +1,5 @@
 # Class-Notes
-I'm in master branch 
+I'm in master branch main
 <<<<<<< HEAD
 !!******************!!!
 Feature image is implemented 
