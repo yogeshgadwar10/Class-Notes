@@ -155,3 +155,7 @@ github and gitlab
 Branching strategy
 Dev branch code push
 
+
+Jenkins
+---------
+1. 
