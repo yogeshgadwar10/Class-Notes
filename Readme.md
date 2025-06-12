@@ -155,5 +155,5 @@ github and gitlab
 Branching strategy
 Dev branch code push
 feature branch < git push orign feature
-
+MR / PR
 
