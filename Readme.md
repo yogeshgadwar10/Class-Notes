@@ -206,4 +206,4 @@ Log Management
 DataDog
 Grafana 
 Prometheus
-ELK
+ElasticSearch  Logstash Kibana
