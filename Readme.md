@@ -168,3 +168,4 @@ Docker
 2. What is Dockerfile?
 What why how? INSTRUCTIONS / Deplpy JAVA 
 3. How to optimize dockerimage 
+- 
