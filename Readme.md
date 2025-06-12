@@ -170,3 +170,4 @@ What why how? INSTRUCTIONS / Deplpy JAVA
 3. How to optimize dockerimage 
 - Multistage
 - Reduce RUN instruction
+- 
