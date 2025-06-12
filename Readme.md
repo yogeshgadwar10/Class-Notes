@@ -188,4 +188,4 @@ Terraform
 -------------
 1. How to secure terraform.tfstate file
 2. Terraform import
-3. Terraform destroy --target 
+3. Terraform destroy --target aws_instance.
