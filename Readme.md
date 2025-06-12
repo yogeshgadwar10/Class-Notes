@@ -147,4 +147,4 @@ Manually Server - Instance / AMI
 Linux and AWS Important Question
 DevOps
 
-Git Read
+Git Read 100 503020
