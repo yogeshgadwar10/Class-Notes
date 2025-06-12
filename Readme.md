@@ -172,5 +172,5 @@ What why how? INSTRUCTIONS / Deplpy JAVA
 - Reduce RUN instruction
 - use smaller base image
 - Remove unnnecesary files
-
+4. ARG vs VAR
 
