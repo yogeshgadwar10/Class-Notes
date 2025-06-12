@@ -164,4 +164,4 @@ Jenkins
 
 Docker
 ---------
-1. 
+1. Entrypoint vs CMD vs RUN
