@@ -179,4 +179,5 @@ Kubernetes
 1. What is Ingress
 2. Deployment vs StatefulSet
 3. Deployment and Service
-4. 
+4. Different service types
+5. Architecture of Linux
