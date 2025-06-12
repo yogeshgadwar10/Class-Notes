@@ -174,4 +174,6 @@ What why how? INSTRUCTIONS / Deplpy JAVA
 - Remove unnnecesary files
 4. ARG vs VAR
 
-
+Kubernetes
+----------
+1. 
