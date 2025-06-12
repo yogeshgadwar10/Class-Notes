@@ -150,4 +150,4 @@ DevOps
 Git,
 PULL vs FETCH vs CLONE
 
-
+PULL = FETCH + MERGE
