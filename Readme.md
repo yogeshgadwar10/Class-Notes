@@ -198,4 +198,7 @@ Monitoring Tool -
 
 CloudWatch -
 
-Metrics
+Metrics Collection
+Dashboard
+Alerting
+Log Management
