@@ -178,4 +178,4 @@ Kubernetes
 ----------
 1. What is Ingress
 2. Deployment vs StatefulSet
-3. 
+3. Deployment 
