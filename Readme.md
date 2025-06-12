@@ -176,4 +176,5 @@ What why how? INSTRUCTIONS / Deplpy JAVA
 
 Kubernetes
 ----------
-1. 
+1. What is Ingress
+2. 
