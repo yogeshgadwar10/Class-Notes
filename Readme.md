@@ -171,4 +171,4 @@ What why how? INSTRUCTIONS / Deplpy JAVA
 - Multistage
 - Reduce RUN instruction
 - use smaller base image
-- 
+- Remove unnnecesary files
