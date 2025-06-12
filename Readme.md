@@ -191,3 +191,4 @@ Terraform
 3. Terraform destroy --target aws_instance.my_instance
 comment configuration of resource my_instance
 terraform apply
+4. 
