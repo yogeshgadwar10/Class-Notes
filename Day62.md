@@ -1,4 +1,3 @@
-Explain docker container commands
 Essential Commands for Container Management using Docker 
 Experiment with Docker Containers - Create, Start, Stop, and Run
 Expose applications to the World
